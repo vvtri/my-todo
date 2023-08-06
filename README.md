@@ -4,6 +4,7 @@
 4. Learn database sharding
 5. Finish GraphQL blog
 6. Learn ansible and prometheus
-7. Learn linux advanced
-8. Create sample MFA auth system
-9. Learn distributed infrastructure
+7. Learn Networking
+8. Learn linux advanced
+9. Create sample MFA auth system
+10. Learn distributed infrastructure
