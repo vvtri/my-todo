@@ -1,5 +1,5 @@
 1. Do AWS labs - Done
-2. Learn and Create sample Redis, Redis pubsub, Redis Json, ...etc
+2. Learn and Create sample Redis, Redis pubsub, Redis Json, ...etc - Processing
 3. Learn and Create sample ElasticSearch
 4. Learn database sharding
 5. Finish GraphQL blog
