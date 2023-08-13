@@ -1,4 +1,4 @@
-1. Do AWS labs
+1. Do AWS labs - Done
 2. Learn and Create sample Redis, Redis pubsub, Redis Json, ...etc
 3. Learn and Create sample ElasticSearch
 4. Learn database sharding
