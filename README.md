@@ -1,8 +1,8 @@
 1. Do AWS labs - Done
 2. Learn and Create sample Redis, Redis pubsub, Redis Json, ...etc - Done
-3. Learn react native 
-4. Learn git advanced 
-5. Learn and Create sample ElasticSearch
+3. Learn and Create sample ElasticSearch
+4. Learn react native 
+5. Learn git advanced 
 6. Finish GraphQL blog
 7. Learn ansible and prometheus
 8. Learn Networking
